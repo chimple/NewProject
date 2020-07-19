@@ -1,0 +1,3 @@
+[submodule "assets/subzero"]
+	path = assets/subzero
+	url = https://github.com/chimple/subzero
